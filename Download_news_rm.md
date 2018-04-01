@@ -258,7 +258,7 @@ fig = ax.get_figure()
 ```
 
 
-![png](/Users/MichaelDeng/Python/Python Project/DownloadNews/Download_news_rm/output_13_0.png)
+![png](./output_13_0.png)
 
 
 ### 后续改进点
