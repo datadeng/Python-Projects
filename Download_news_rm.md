@@ -258,7 +258,7 @@ fig = ax.get_figure()
 ```
 
 
-![png](./output_13_0.png)
+![水污染报道时间分布](https://github.com/datadeng/Python-Projects/blob/master/output_13_0.png)
 
 
 ### 后续改进点
